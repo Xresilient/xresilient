@@ -58,8 +58,8 @@ const Index = () => {
     <Main
       meta={
         <Meta
-          title="X-resilient"
-          description="X-resilient website made with Next.js."
+          title="Xresilient"
+          description="WEB3 Development Services"
         />
       }
     >
