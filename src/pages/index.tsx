@@ -114,8 +114,8 @@ const Index = () => {
           {/* TODO provide image source as prop, see first one for  example */}
           <SmallServiceCard
             image="https://source.unsplash.com/300x300/?web3"
-            title="Web2 to Web3 Transformation"
-            description="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Culpa voluptate corrupti tempora doloremque nemo ratione? Earum cumque deserunt cum dignissimos unde, dolore, excepturi non iure et, veritatis officia eveniet consequatur."
+            title="Token Development"
+            description="With our token development services, you can transform your business, unlock new revenue streams, and engage with a global community of digital enthusiasts. Discover the power of tokens with Xresilient, your trusted partner in blockchain innovation."
           />
           <SmallServiceCard />
           <SmallServiceCard />
