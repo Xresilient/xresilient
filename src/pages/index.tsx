@@ -162,8 +162,8 @@ const Index = () => {
         <div className="flex flex-col md:flex-row md:gap-40 gap-8">
           <AboutCard
             image="https://source.unsplash.com/300x300/?web3"
-            name="John Doe"
-            role="CEO"
+            name="Tanuj Baware"
+            role="Founder"
             data-aos="fade-right"
             data-aos-duration="600"
           />
