@@ -124,8 +124,8 @@ const Index = () => {
           />
           <SmallServiceCard
             image="https://source.unsplash.com/300x300/?web3"
-            title="NFT Designin, Development"
-            description="With our NFT design and development services, you can unleash your creativity, establish digital ownership, and engage with a global community of collectors and enthusiasts. Discover the power of NFTs with Xresilient, your trusted partner in unlocking the potential of the digital art and collectibles market."
+            title="DEX, CEX Development"
+            description="With our DEX and CEX development services, you can create a secure, reliable, and user-centric exchange platform that caters to the needs of traders worldwide. Experience the future of trading with Xresilient, your trusted partner in building innovative and scalable exchange solutions."
           />
         </div>
         <div className="grid rid-cols-1 md:grid-cols-2 gap-8">
@@ -134,11 +134,21 @@ const Index = () => {
             image="https://source.unsplash.com/300x300/?web3"
             title={
               <span>
-                Web2 to web3 <br />
+                Web2 to Web3 Transformation <br />
                 Transformation
               </span>
             }
-            description="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Culpa voluptate corrupti tempora doloremque nemo ratione? Earum cumque deserunt cum dignissimos unde, dolore, excepturi non iure et, veritatis officia eveniet consequatur."
+            description="With our Web2 to Web3 transformation services, you can unlock new levels of transparency, security, and user empowerment. Embrace the decentralized web with Xresilient, your trusted partner in Web3 innovation."
+          />
+          <LargeServiceCard
+            image="https://source.unsplash.com/300x300/?web3"
+            title={
+              <span>
+                Web3 Consultation and Services<br />
+                Transformation
+              </span>
+            }
+            description="With our Web3 consultation and services, you can unlock the true potential of decentralized technologies, transform your business, and thrive in the new decentralized era. Embrace the future of the internet with Xresilient, your trusted partner in Web3 innovation and success."
           />
           <LargeServiceCard />
         </div>
