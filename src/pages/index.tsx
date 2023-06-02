@@ -191,11 +191,12 @@ const Index = () => {
               </h3>
               <span className="text-white text-xl md:text-2xl font-bold p-8">
                 <HiMail className="text-primary text-3xl inline-block mr-2" />
-                John@gmail.com
+                sxtitsolutions@gmail.com
               </span>
               <span className="text-white text-xl md:text-2xl font-bold p-8 border-4 border-primary rounded-2xl bg-primary/50 w-3/4">
                 <HiPhone className="text-primary text-3xl inline-block mr-2" />
-                +91 1234567890
+                +91 9325831463
+                +91 8408888799
               </span>
               <span className="text-white text-xl md:text-2xl font-bold p-8">
                 <HiLocationMarker className="text-primary text-3xl inline-block mr-2" />
