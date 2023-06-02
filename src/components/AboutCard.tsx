@@ -13,7 +13,7 @@ interface AboutCardProps {
 
 const AboutCard = ({
   image = "https://source.unsplash.com/1000x1000/?portrait",
-  name = "Tanuj Baware",
+  name = "Sangam Patil",
   role = "Founder",
   ...rest
 }: AboutCardProps) => {
