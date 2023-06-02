@@ -196,11 +196,14 @@ const Index = () => {
               <span className="text-white text-xl md:text-2xl font-bold p-8 border-4 border-primary rounded-2xl bg-primary/50 w-3/4">
                 <HiPhone className="text-primary text-3xl inline-block mr-2" />
                 +91 9325831463
+              </span>
+              <span className="text-white text-xl md:text-2xl font-bold p-8 border-4 border-primary rounded-2xl bg-primary/50 w-3/4">
+                <HiPhone className="text-primary text-3xl inline-block mr-2" />
                 +91 8408888799
               </span>
               <span className="text-white text-xl md:text-2xl font-bold p-8">
                 <HiLocationMarker className="text-primary text-3xl inline-block mr-2" />
-                123, Lorem ipsum dolor sit amet.
+                Yewalewadi, Pune, Maharashtra 411048.
               </span>
             </div>
             <div
