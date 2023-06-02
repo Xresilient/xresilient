@@ -12,7 +12,7 @@ interface AboutCardProps {
 }
 
 const AboutCard = ({
-  image = "https://source.unsplash.com/1000x1000/?portrait",
+  image = "/assets/sangam.jpg",
   name = "Sangam Patil",
   role = "Founder",
   ...rest
