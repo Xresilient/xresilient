@@ -127,7 +127,6 @@ const Index = () => {
             title="NFT Designin, Development"
             description="With our NFT design and development services, you can unleash your creativity, establish digital ownership, and engage with a global community of collectors and enthusiasts. Discover the power of NFTs with Xresilient, your trusted partner in unlocking the potential of the digital art and collectibles market."
           />
-          <SmallServiceCard />
         </div>
         <div className="grid rid-cols-1 md:grid-cols-2 gap-8">
           {/* TODO provide image source as prop, see first one for  example */}
