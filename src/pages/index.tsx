@@ -134,8 +134,7 @@ const Index = () => {
             image="https://source.unsplash.com/300x300/?web3"
             title={
               <span>
-                Web2 to Web3 Transformation <br />
-                Transformation
+                Web2 to Web3 Transformation
               </span>
             }
             description="With our Web2 to Web3 transformation services, you can unlock new levels of transparency, security, and user empowerment. Embrace the decentralized web with Xresilient, your trusted partner in Web3 innovation."
@@ -144,13 +143,11 @@ const Index = () => {
             image="https://source.unsplash.com/300x300/?web3"
             title={
               <span>
-                Web3 Consultation and Services<br />
-                Transformation
+                Web3 Consultation and Services
               </span>
             }
             description="With our Web3 consultation and services, you can unlock the true potential of decentralized technologies, transform your business, and thrive in the new decentralized era. Embrace the future of the internet with Xresilient, your trusted partner in Web3 innovation and success."
           />
-          <LargeServiceCard />
         </div>
       </section>
 
