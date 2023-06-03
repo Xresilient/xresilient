@@ -72,9 +72,9 @@ const Index = () => {
           data-aos="zoom-in"
           data-aos-duration="600"
         >
-          <h4 className="text-center text-4xl md:text-6xl text-white font-bold font-spGrotesk">
+          <h3 className="text-center text-4xl md:text-6xl text-white font-bold font-spGrotesk">
             End-to-End Solution For Web3 Development
-          </h4>
+          </h3>
           <span className="text-white/50 text-center text-xl md:text-2xl font-spGrotesk font-light">
             Designing, Development, Deployment of NFT&apos;s , Daap, Smart
             Contract Ready to work with Entertainment, Crypto, Financial
