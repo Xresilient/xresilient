@@ -84,7 +84,7 @@ const Index = () => {
             Get Started
           </button>
         </div>
-        <div className="grid grid-cols-1 gap-20 md:gap-16 lg:gap-8 md:grid-cols-2 lg:grid-cols-4 mt-10 w-full">
+        <div className="grid grid-cols-1 gap-20 md:gap-16 lg:gap-8 md:grid-cols-2 lg:grid-cols-4 mt-20 w-full">
           {/* TODO provide image source as prop, see first one for url example and second for static asset */}
           <Card
             title="Metaverse"
