@@ -43,7 +43,7 @@ const Card = ({
           />
         </div>
       </div>
-      <div className="pt-10 pb-44">
+      <div className="pt-20 pb-44">
         <h2 className="text-4xl font-bold text-center font-spGrotesk">
           {title}
         </h2>
