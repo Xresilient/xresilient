@@ -94,11 +94,12 @@ const Index = () => {
           />
           <Card
             title="NFT Collection"
+            image="https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/in/wp-content/uploads/2022/03/monkey-g412399084_1280.jpg"
             data-aos="fade-up"
-            data-aos-duration="800"
+            data-aos-duration="900"
           />
-          <Card title="DAPP" image="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/957329/ethereum-name-service-dapp-tutorial-08de2d66b422d12b766420857f0428b6.png" data-aos="fade-up" data-aos-duration="1000" />
-          <Card title="Token" image="https://blog.liquid.com/hubfs/Crypto-Coin-vs-Token.jpg"  data-aos="fade-up" data-aos-duration="1200" />
+          <Card title="DAPP" image="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/957329/ethereum-name-service-dapp-tutorial-08de2d66b422d12b766420857f0428b6.png" data-aos="fade-up" data-aos-duration="1200" />
+          <Card title="Token" image="https://blog.liquid.com/hubfs/Crypto-Coin-vs-Token.jpg"  data-aos="fade-up" data-aos-duration="1500" />
         </div>
       </section>
 
