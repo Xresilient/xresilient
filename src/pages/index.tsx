@@ -72,7 +72,7 @@ const Index = () => {
           data-aos="zoom-in"
           data-aos-duration="600"
         >
-          <h3 className="text-center text-4xl md:text-6xl text-white font-bold font-spGrotesk">
+          <h3 className="text-center text-5xl md:text-5xl text-white font-bold font-spGrotesk">
             End-to-End Solution For Web3 Development
           </h3>
           <span className="text-white/50 text-center text-xl md:text-2xl font-spGrotesk font-light">
