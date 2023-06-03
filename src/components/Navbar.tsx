@@ -145,21 +145,21 @@ const Navbar = () => {
               <li>
                 <Link href="github.com">
                   <AiOutlineGithub
-                    className={`text-5xl font-medium text-white hover:color-primary`}
+                    className={`text-4xl font-medium text-white hover:color-primary`}
                   />
                 </Link>
               </li>
               <li>
                 <Link href="discord.com">
                   <RiDiscordFill
-                    className={`text-5xl font-medium text-white hover:color-primary`}
+                    className={`text-4xl font-medium text-white hover:color-primary`}
                   />
                 </Link>
               </li>
               <li>
                 <Link href="reddit.com">
                   <BsReddit
-                    className={`text-5xl font-medium text-white hover:color-primary`}
+                    className={`text-4xl font-medium text-white hover:color-primary`}
                   />
                 </Link>
               </li>
