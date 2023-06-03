@@ -94,7 +94,7 @@ const Index = () => {
           />
           <Card
             title="NFT Collection"
-            image="https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/in/wp-content/uploads/2022/03/monkey-g412399084_1280.jpg"
+<!--             image="https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/in/wp-content/uploads/2022/03/monkey-g412399084_1280.jpg" -->
             data-aos="fade-up"
             data-aos-duration="800"
           />
