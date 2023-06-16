@@ -39,7 +39,7 @@ const Card = ({
             alt="Image"
             width={ isMobile ? 96 : 128 }
             height={ isMobile ? 96 : 128 }
-            className="object-cover rounded-full border-primary border-2"
+            className="object-cover object-center rounded-full border-primary border-2"
           />
         </div>
       </div>
