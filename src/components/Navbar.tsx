@@ -109,7 +109,7 @@ const Navbar = () => {
             <ul className="mt-4 flex flex-col items-start gap-4 lg:hidden">
               <li>
                 <Link
-                  href="/"
+                  href="#services"
                   className={`mr-4 px-3 py-2 text-lg font-medium text-white hover:border-b-2`}
                   style={{
                     borderColor: "#F18500",
@@ -120,7 +120,7 @@ const Navbar = () => {
               </li>
               <li>
                 <Link
-                  href="/about"
+                  href="#about"
                   className={`mr-4 px-3 py-2 text-lg font-medium text-white hover:border-b-2`}
                   style={{
                     borderColor: "#F18500",
@@ -131,7 +131,7 @@ const Navbar = () => {
               </li>
               <li>
                 <Link
-                  href="/contact"
+                  href="#contact"
                   className={`mr-4 px-3 py-2 text-lg font-medium text-white hover:border-b-2`}
                   style={{
                     borderColor: "#F18500",
