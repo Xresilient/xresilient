@@ -14,6 +14,6 @@ module.exports = {
   reactStrictMode: true,
   images: {
     unoptimized: true,
-    domains: ["source.unsplash.com"],
+    domains: ["xresilient.com"],
   },
 };

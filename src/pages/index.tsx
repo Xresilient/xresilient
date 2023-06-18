@@ -94,12 +94,12 @@ const Index = () => {
           />
           <Card
             title="NFT Collection"
-            image="https://lh3.googleusercontent.com/3EryWWk6mqCSC3aJxoU4rJp5hGeShs0v39_BWHhHZp1X8Yf7lrMJ7raFIqxKYYcPKFy0jhiH-2SRGTYUFdDf9YyCedhTZBD2u5iG=s400"
+            image="/assets/hero_services/NFT_C.jpg"
             data-aos="fade-up"
             data-aos-duration="900"
           />
-          <Card title="DAPP" image="https://lh3.googleusercontent.com/3EryWWk6mqCSC3aJxoU4rJp5hGeShs0v39_BWHhHZp1X8Yf7lrMJ7raFIqxKYYcPKFy0jhiH-2SRGTYUFdDf9YyCedhTZBD2u5iG=s400" data-aos="fade-up" data-aos-duration="1200" />
-          <Card title="Token" image="https://lh3.googleusercontent.com/3EryWWk6mqCSC3aJxoU4rJp5hGeShs0v39_BWHhHZp1X8Yf7lrMJ7raFIqxKYYcPKFy0jhiH-2SRGTYUFdDf9YyCedhTZBD2u5iG=s400"  data-aos="fade-up" data-aos-duration="1500" />
+          <Card title="DAPP" image="/assets/hero_services/dapps.png" data-aos="fade-up" data-aos-duration="1200" />
+          <Card title="Token" image="/assets/hero_services/a.jpg"  data-aos="fade-up" data-aos-duration="1500" />
         </div>
       </section>
 
@@ -113,17 +113,17 @@ const Index = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-20">
           {/* TODO provide image source as prop, see first one for  example */}
           <SmallServiceCard
-            image="https://source.unsplash.com/300x300/?web3"
+            image="https://tokyotechie.com/images/crypto-coin-devlopment.png"
             title="Token Development"
             description="With our token development services, you can transform your business, unlock new revenue streams, and engage with a global community of digital enthusiasts. Discover the power of tokens with Xresilient, your trusted partner in blockchain innovation."
           />
           <SmallServiceCard
-            image="https://source.unsplash.com/300x300/?web3"
+            image="https://i0.wp.com/thefulcrum.ca/wp-content/uploads/2023/02/nft-2-scaled.jpg?fit=2560%2C1404&ssl=1"
             title="NFT Designin, Development"
             description="With our NFT design and development services, you can unleash your creativity, establish digital ownership, and engage with a global community of collectors and enthusiasts. Discover the power of NFTs with Xresilient, your trusted partner in unlocking the potential of the digital art and collectibles market."
           />
           <SmallServiceCard
-            image="https://source.unsplash.com/300x300/?web3"
+            image="https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1363709340-BlackSalmon-e1672419836160.jpg?fit=2270%2C1135&strip=all"
             title="DEX, CEX Development"
             description="With our DEX and CEX development services, you can create a secure, reliable, and user-centric exchange platform that caters to the needs of traders worldwide. Experience the future of trading with Xresilient, your trusted partner in building innovative and scalable exchange solutions."
           />
@@ -131,7 +131,7 @@ const Index = () => {
         <div className="grid rid-cols-1 md:grid-cols-2 gap-8">
           {/* TODO provide image source as prop, see first one for  example */}
           <LargeServiceCard
-            image="https://source.unsplash.com/300x300/?web3"
+            image="https://miro.medium.com/v2/resize:fit:1400/1*qSDGiOam_R2PwVBYbtpcWA.jpeg"
             title={
               <span>
                 Web2 to Web3 Transformation
@@ -140,7 +140,7 @@ const Index = () => {
             description="With our Web2 to Web3 transformation services, you can unlock new levels of transparency, security, and user empowerment. Embrace the decentralized web with Xresilient, your trusted partner in Web3 innovation."
           />
           <LargeServiceCard
-            image="https://source.unsplash.com/300x300/?web3"
+            image="https://www.xrtoday.com/wp-content/uploads/2022/10/What_Web3_Going_2023-1280x720.jpg"
             title={
               <span>
                 Web3 Consultation and Services
@@ -254,13 +254,14 @@ const Index = () => {
 
       <section className="bg-black w-full px-4 lg:px-[8%] flex flex-col mt-10 md:mt-20 gap-10 text-left border-t-2 border-gray-500 p-8">
         <h5 className="text-white text-xl md:text-2xl font-bold md:w-[40%]">
-          X-Resilient
+          Xresilient
         </h5>
         <span className="text-gray-300 text-base md:text-xl md:w-[40%]">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium
-          minus officia optio exercitationem nobis ipsa unde ratione, impedit
+          <a href="https://google.com">We are Hiring!!!</a><br />
+          <a href="https://google.com">Apply for Industrial Training</a><br />
+          
         </span>
-        <span className="text-gray-300 text-center">© 2023 X-Resilient</span>
+        <span className="text-gray-300 text-center">© 2023 Xresilient</span>
       </section>
     </Main>
   );
