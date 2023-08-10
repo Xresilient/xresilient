@@ -80,8 +80,8 @@ const Index = () => {
             Contract Ready to work with Entertainment, Crypto, Financial
             Industry
           </span>
-          <button className="bg-white text-black text-xl md:text-2xl px-16 py-4 rounded-full h-fit font-chillax font-medium mt-8">
-            Get Started
+          <button href="#contact" className="bg-white text-black text-xl md:text-2xl px-16 py-4 rounded-full h-fit font-chillax font-medium mt-8">
+            Lets Discuss !
           </button>
         </div>
         <div className="grid grid-cols-1 gap-20 md:gap-16 lg:gap-8 md:grid-cols-2 lg:grid-cols-4 mt-48 w-full">
@@ -257,8 +257,8 @@ const Index = () => {
           Xresilient
         </h5>
         <span className="text-gray-300 text-base md:text-xl md:w-[40%]">
-          <a href="https://google.com">We are Hiring!!!</a><br />
-          <a href="https://google.com">Apply for Industrial Training</a><br />
+          <a href="https://forms.gle/Gs2qfA6MEQFZMBaF8">We are Hiring!!!</a><br />
+          <a href="https://forms.gle/Dvn5DUfYT4vDHgMd7">Apply for Industrial Training</a><br />
           
         </span>
         <span className="text-gray-300 text-center">© 2023 Xresilient</span>
