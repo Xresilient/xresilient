@@ -80,9 +80,9 @@ const Index = () => {
             Contract Ready to work with Entertainment, Crypto, Financial
             Industry
           </span>
-          <button onClick="location.href = '#contact';" className="bg-white text-black text-xl md:text-2xl px-16 py-4 rounded-full h-fit font-chillax font-medium mt-8">
+          <a href="#contact" className="bg-white text-black text-xl md:text-2xl px-16 py-4 rounded-full h-fit font-chillax font-medium mt-8">
             Lets Discuss !
-          </button>
+          </a>
         </div>
         <div className="grid grid-cols-1 gap-20 md:gap-16 lg:gap-8 md:grid-cols-2 lg:grid-cols-4 mt-48 w-full">
           {/* TODO provide image source as prop, see first one for url example and second for static asset */}
