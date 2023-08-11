@@ -80,7 +80,7 @@ const Index = () => {
             Contract Ready to work with Entertainment, Crypto, Financial
             Industry
           </span>
-          <button onclick="location.href = '#contact';" className="bg-white text-black text-xl md:text-2xl px-16 py-4 rounded-full h-fit font-chillax font-medium mt-8">
+          <button onClick="location.href = '#contact';" className="bg-white text-black text-xl md:text-2xl px-16 py-4 rounded-full h-fit font-chillax font-medium mt-8">
             Lets Discuss !
           </button>
         </div>
