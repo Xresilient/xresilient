@@ -13,7 +13,7 @@ import AOS from "aos";
 
 const axiosInstance: AxiosInstance = axios.create({
   // TODO change baseURL to your own
-  baseURL: "https://example.com/",
+  baseURL: "https://xresilient.com/",
   timeout: 1000,
 });
 
@@ -80,7 +80,7 @@ const Index = () => {
             Contract Ready to work with Entertainment, Crypto, Financial
             Industry
           </span>
-          <button className="bg-white text-black text-xl md:text-2xl px-16 py-4 rounded-full h-fit font-chillax font-medium mt-8">
+          <button onclick="location.href = '#contact';" className="bg-white text-black text-xl md:text-2xl px-16 py-4 rounded-full h-fit font-chillax font-medium mt-8">
             Lets Discuss !
           </button>
         </div>
